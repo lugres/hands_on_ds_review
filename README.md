@@ -2,6 +2,8 @@
 
 This repos contains a review of hands-on Data Science concepts done in 2025, when getting ready to start a job as a data scientist.
 
+---
+
 ## Topics covered:
 
 ### **[1. Python, numpy, pandas](./01_general_python_numpy_pandas/)**: Using Python, NumPy, Pandas for data wrangling and analysis.
@@ -23,6 +25,7 @@ This repos contains a review of hands-on Data Science concepts done in 2025, whe
 
 ### **[7. Decision tree classifier, random forests](./)**: Build decision trees and evaluate classifier performance to solve classification and regression problems; improve classifiers with stacking, boosting, and bagging.
 
+---
 
 ## Some visual examples: 
 
@@ -35,12 +38,14 @@ This repos contains a review of hands-on Data Science concepts done in 2025, whe
 
 * [House prices by zones](./02_data_visual_descr_stats/visuals/house_prices_by_zones.png)
 * [House prices by zones, boxplot](./02_data_visual_descr_stats/visuals/house_prices_by_zones_boxplot.png): outliers are immediately visible.
+![House prices](./02_data_visual_descr_stats/visuals/house_prices_by_zones_boxplot.png)
 
 ### Real and counterfeit Swiss banknotes
 
 * [Real vs counterfeit Swiss banknotes, check all params](./02_data_visual_descr_stats/visuals/real_vs_counterfeit_banknotes_params.png)
 * [Real vs counterfeit Swiss banknotes, dig deeper into bimodality (diagonals)](./02_data_visual_descr_stats/visuals/real_vs_counterfeit_diag.png)
 * [Real vs counterfeit Swiss banknotes, summary](./02_data_visual_descr_stats/visuals/real_vs_counterfeit_diag_summ.png): diagonal size of a banknote is a key parameter to detect counterfeit.
+![Real vs Counterfeit](./02_data_visual_descr_stats/visuals/real_vs_counterfeit_diag_summ.png)
 
 ### YouTube videos
 
@@ -48,3 +53,4 @@ This repos contains a review of hands-on Data Science concepts done in 2025, whe
 * [Explore views, likes, and dislikes - date and category](./02_data_visual_descr_stats/visuals/yt_views_likes_dislikes_catgrs.png)
 * [Explore views by category](./02_data_visual_descr_stats/visuals/yt_views_catgrs.png)
 * ["Likes by Views" metric, boxplot](./02_data_visual_descr_stats/visuals/yt_likes_by_views_catgrs.png): how many likes do we get for each view, by category.
+![Real vs Counterfeit](./02_data_visual_descr_stats/visuals/yt_likes_by_views_catgrs.png)
